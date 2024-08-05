@@ -1,1 +1,10 @@
-
+{ 
+  "name": "nodejs", 
+  "version": "1.0.0", 
+  "description": "My first node JS application", 
+  "main": "index.js", 
+  "dependencies": {},
+  "scripts": { 
+    "start": "node index.js"
+  }
+} 
